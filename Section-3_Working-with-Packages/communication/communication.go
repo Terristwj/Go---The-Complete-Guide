@@ -4,6 +4,7 @@ package communication
 import "fmt"
 
 // (3) Must be capitalized
+// - To declare export
 func PresentOptions() {
 	fmt.Println("What do you want to do?")
 	fmt.Println("1. Check balance")
