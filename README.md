@@ -3,6 +3,7 @@
 A GoLang tutorial by Maximilian Schwarzmüller
 
 -   [Udemy Course link](https://www.udemy.com/course/go-the-complete-guide/?srsltid=AfmBOorKk_tpWDliNZmFb0IOHn6h7cK73yG6pMLAJfiF03xqJPhysMl9)
+-   [GitHub Resource](https://github.com/mschwarzmueller/go-complete-guide-resources)
 
 ## What you'll learn
 
